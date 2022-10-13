@@ -1,0 +1,25 @@
+{
+  "name": "forkify",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josphatmuteru/Forkify-App.git"
+  },
+  "author": "Josphat Muteru",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josphatmuteru/Forkify-App/issues"
+  },
+  "homepage": "https://github.com/josphatmuteru/Forkify-App#readme",
+  "dependencies": {
+    "parcel": "^2.7.0",
+    "sass": "^1.55.0"
+  },
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.7.0"
+  }
+}
