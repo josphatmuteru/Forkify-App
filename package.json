@@ -16,7 +16,9 @@
   },
   "homepage": "https://github.com/josphatmuteru/Forkify-App#readme",
   "dependencies": {
+    "core-js": "^3.25.5",
     "parcel": "^2.7.0",
+    "regenerator-runtime": "^0.13.10",
     "sass": "^1.55.0"
   },
   "devDependencies": {
