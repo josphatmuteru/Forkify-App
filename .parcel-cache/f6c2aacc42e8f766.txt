@@ -7,7 +7,7 @@
 40F:\js\Forkify\node_modules\htmlnano\docs133101305876593664 1
 51F:\js\Forkify\node_modules\abortcontroller-polyfill133101305849225490 1
 53F:\js\Forkify\node_modules\fractional\array_mixins.js133102132626002173 0
-18F:\js\Forkify\dist133111676485959260 1
+18F:\js\Forkify\dist133112400287794727 1
 36F:\js\Forkify\node_modules\@mischnic133101305755732230 1
 65F:\js\Forkify\node_modules\core-js\modules\es.array.find-index.js133102068245825724 0
 69F:\js\Forkify\node_modules\core-js\modules\esnext.math.rad-per-deg.js133102068262883443 0
@@ -104,7 +104,7 @@
 47F:\js\Forkify\node_modules\import-fresh\license133101305824781843 0
 58F:\js\Forkify\node_modules\core-js\stable\instance\flat.js133102068277033495 0
 68F:\js\Forkify\node_modules\core-js\features\function\virtual\bind.js133102068225091306 0
-41F:\js\Forkify\src\js\views\resultsView.js133111676479855007 0
+41F:\js\Forkify\src\js\views\resultsView.js133112398476662343 0
 72F:\js\Forkify\node_modules\core-js\modules\es.typed-array.int16-array.js133102068256978575 0
 49F:\js\Forkify\node_modules\xxhash-wasm\LICENSE.md133101305845351537 0
 59F:\js\Forkify\node_modules\@parcel\source-map\dist\utils.js133101305851203406 0
@@ -140,7 +140,7 @@
 62F:\js\Forkify\node_modules\css-tree\lib\syntax\pseudo\index.js133101305876064974 0
 82F:\js\Forkify\node_modules\htmlnano\docs\versioned_docs\version-2.0.0\020-usage.md133101305872449013 0
 57F:\js\Forkify\node_modules\core-js\es\instance\entries.js133102068244079003 0
-34F:\js\Forkify\src\js\views\View.js133111656317564867 0
+34F:\js\Forkify\src\js\views\View.js133111681215653585 0
 62F:\js\Forkify\node_modules\csso\lib\replace\property\border.js133101305850273139 0
 79F:\js\Forkify\node_modules\@parcel\optimizer-image\parcel-image.darwin-x64.node133101305866240417 0
 39F:\js\Forkify\src\sass\_components.scss132811135370000000 0
@@ -239,7 +239,7 @@
 38F:\js\Forkify\node_modules\buffer-from133101305833950878 1
 65F:\js\Forkify\node_modules\cosmiconfig\dist\getDirectory.d.ts.map133101305853580080 0
 70F:\js\Forkify\node_modules\core-js\actual\string\virtual\trim-right.js133102068344005311 0
-41F:\js\Forkify\src\js\views\previewView.js133111657698297471 0
+41F:\js\Forkify\src\js\views\previewView.js133112400283569795 0
 74F:\js\Forkify\node_modules\caniuse-lite\data\features\namevalue-storage.js133101305923681291 0
 39F:\js\Forkify\node_modules\browserslist133101305847048717 1
 67F:\js\Forkify\node_modules\core-js\features\symbol\async-dispose.js133102068222306280 0
@@ -1302,7 +1302,7 @@
 73F:\js\Forkify\node_modules\dom-serializer\node_modules\entities\readme.md133101305850425957 0
 56F:\js\Forkify\node_modules\type-fest\source\entries.d.ts133101305848627590 0
 69F:\js\Forkify\node_modules\core-js\internals\string-pad-webkit-bug.js133102068332629514 0
-40F:\js\Forkify\dist\index.e37f48ea.js.map133111676485949294 0
+40F:\js\Forkify\dist\index.e37f48ea.js.map133112400287794727 0
 63F:\js\Forkify\node_modules\htmlnano\lib\modules\mergeScripts.js133101305850161287 0
 69F:\js\Forkify\node_modules\lmdb\node_modules\node-addon-api\README.md133101305854400210 0
 72F:\js\Forkify\node_modules\core-js\internals\async-iterator-prototype.js133102068222550018 0
@@ -7651,6 +7651,6 @@
 38F:\js\Forkify\dist\Forkify.3464ddca.js133102047822244776 0
 36F:\js\Forkify\dist\index.62406edb.js133102051775714476 0
 40F:\js\Forkify\dist\index.62406edb.js.map133102051776023909 0
-36F:\js\Forkify\dist\index.e37f48ea.js133111676485899438 0
+36F:\js\Forkify\dist\index.e37f48ea.js133112400287754847 0
 37F:\js\Forkify\dist\index.f7626f62.css133110944235166504 0
 41F:\js\Forkify\dist\index.f7626f62.css.map133110944235204385 0

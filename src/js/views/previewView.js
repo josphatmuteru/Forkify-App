@@ -1,9 +1,9 @@
 import View from './View.js';
 // import icons from 'url:../../img/icons.svg';
-class previewView extends View {
+class PreviewView extends View {
   _parentElement = '';
 
-  _generateMarkupPreview() {
+  _generateMarkup() {
     const id = window.location.hash.slice(1);
     return `
       <li class="preview">
@@ -22,4 +22,4 @@ class previewView extends View {
    </li>`;
   }
 }
-export default new previewView();
+export default new PreviewView();
