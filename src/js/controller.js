@@ -33,6 +33,7 @@ const controlRecipes = async function () {
 
     // 3) Rendering the recipe
     recipeView.render(model.state.recipe);
+    console.log(model.state.recipe.title);
   } catch (err) {
     // console.log(err);
     recipeView.renderError();
@@ -108,6 +109,12 @@ const controlAddRecipe = async function (newRecipe) {
 
     //Success message
     addRecipeView.renderMessage();
+
+    //Render bookmark view
+    bookmarksView.render(model.state.bookmarks);
+
+    //Change ID in URL
+    window.history.pushState(null, '', `${model.state.recipe.id}`);
 
     //Close form window
     setTimeout(function () {
