@@ -1,0 +1,7 @@
+<!-- Git -->
+<!-- undo modifications - git reset --hard HEAD view -->
+<!-- log of previous commits - git log -->
+<!-- quit - :q  -->
+<!-- undo commit - git --hard <commitID> -->
+<!-- create new branch - git branch <branchName> -->
+<!-- switch to branch - git checkout <branchName> -->
